@@ -1,1 +1,3 @@
-alert("Tran Ngoc Anh Thu");
+
+    alert("Xin chao cac ban")
+    alert("Tran Ngoc Anh Thu");
