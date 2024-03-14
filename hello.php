@@ -2,4 +2,4 @@
 
 echo "Hello";
 echo "hihi";
-echo "hehe";
+echo "hehe, mac cuoi qua";
