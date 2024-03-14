@@ -1,2 +1,2 @@
 <?php
-echo "File not found";
+echo "Hello";
